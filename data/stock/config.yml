@@ -28,8 +28,8 @@ camera:
   rotateSpeed:        0.5           # camera rotation speed
 
 time:
-  hoursPerDay:        6             # number of hours in a day (Kerbal day)
-  daysPerYear:        426           # number of days per year (Kerbal year)
+  hoursPerDay:        24             # number of hours in a day (Kerbal day)
+  daysPerYear:        365           # number of days per year (Kerbal year)
 
 flybySequence:
   radiusSamples:      10            # number of samples radius samples to test when evaluating a sequence feasability
